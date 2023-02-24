@@ -1,5 +1,5 @@
 # SDC_Lane_Finidng
-I have implemented a Lane detection for Self driving car using OpenCV.
+Implemented a Lane detection for Self driving car using OpenCV.
 For this I have used Canny Edge Detector for detecting edges and probablistic hough transformation for detecting stratight lines in the edges for finding the lane 
 on the highway.
 Also investigated complexities of other edge detectors like Sobel, Perwitt, Marr-Hildreth against Canny edge detector.
